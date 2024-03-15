@@ -1,9 +1,10 @@
 import pandas as pd
-import numpy as np
+# import numpy as np
 
 pegs = [[], [], []]
 
-def mv_twr(h: int, peg1: str, peg2: str, peg3: str) -> None:
+
+def mv_twr(h: int, peg1: str, peg2: str, peg3: str) -> int:
     if h == 0:
         return 0
     elif h == 1:
@@ -12,6 +13,7 @@ def mv_twr(h: int, peg1: str, peg2: str, peg3: str) -> None:
         mv_twr(h - 1, peg1, peg3, peg2)
         mv_twr(1, peg1, peg2, peg3)
         mv_twr(h - 1, peg2, peg1, peg3)
+
 
 def show_pegs() -> None:
     peg_df = pd.DataFrame(pegs).T.iloc[::-1]
@@ -29,7 +31,7 @@ def mv_twr2(h: int, from_peg: int, mid_peg: int, to_peg: int) -> int:
     if h == 0:
         return 0
     elif h == 1:
-        # print(f'From {from_peg} to {to_peg}')
+        # print('From {from_peg} to {to_peg}')
         pegs[to_peg].append(pegs[from_peg][len(pegs[from_peg])-1])
         del pegs[from_peg][len(pegs[from_peg]) - 1]
         show_pegs()
@@ -40,10 +42,11 @@ def mv_twr2(h: int, from_peg: int, mid_peg: int, to_peg: int) -> int:
         steps = steps + mv_twr2(h - 1, mid_peg, from_peg, to_peg)
         return steps
 
+
 if __name__ == '__main__':
     # mv_twr(7, 'a', 'b', 'c')
-    moves: int = mv_twr2(3,0, 1, 2)
+    moves: int = mv_twr2(3, 0, 1, 2)
     print(f'Solved in {moves} moves.')
     pegs = [[], [], []]
-    moves: int = mv_twr2(4,0, 1, 2)
+    moves: int = mv_twr2(4, 0, 1, 2)
     print(f'Solved in {moves} moves.')
