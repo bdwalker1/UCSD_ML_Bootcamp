@@ -1,6 +1,6 @@
 import sys
-import csv
 import re
+import pandas as pd
 
 # Create self-reference to module
 this = sys.modules[__name__]
@@ -10,17 +10,12 @@ this.valid_words = list()
 
 
 def readfiles():
-
-    file = open("wordle_valid_words.txt", "r")
-    this.valid_words = list(csv.reader(file, delimiter=","))
-    file.close()
-    file = open("wordle_used_words.txt", "r")
-    this.used_words = list(csv.reader(file, delimiter=","))
-    file.close()
-    del file
-
-    this.used_words.pop(0)
-    this.valid_words.pop(0)
+    raw_df = pd.read_csv("http://raw.githubusercontent.com/bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/wordle_valid_words.txt")
+    this.valid_words = list(raw_df['valid_word'])
+    del raw_df
+    raw_df = pd.read_csv("http://raw.githubusercontent.com/bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/wordle_used_words.txt")
+    this.used_words = list(raw_df['used_word'])
+    del raw_df
 
 
 def matchunusedwords(pattern: str, keep_ltrs:str = '', elim_ltrs: str = '') -> list:
@@ -41,7 +36,7 @@ def matchunusedwords(pattern: str, keep_ltrs:str = '', elim_ltrs: str = '') -> l
     readfiles()
     possible_words = []
     unused_words = [word for word in this.valid_words if word not in this.used_words]
-    match_words = [word[0] for word in unused_words if re.search(ptrn, word[0]) is not None]
+    match_words = [word for word in unused_words if re.search(ptrn, word) is not None]
 
     for word in match_words:
         word_good: bool = True
@@ -74,7 +69,7 @@ def matchwords(pattern: str, keep_ltrs:str = '', elim_ltrs: str = '') -> list:
             raise ValueError("Your pattern contains one of the elimination characters")
 
     readfiles()
-    match_words = [word[0] for word in this.valid_words if re.search(ptrn, word[0]) is not None]
+    match_words = [word for word in this.valid_words if re.search(ptrn, word) is not None]
 
     matching_words = []
     for word in match_words:
