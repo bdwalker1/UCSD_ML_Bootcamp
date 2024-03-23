@@ -1,25 +1,19 @@
-import sys
 import re
 import pandas as pd
 
-# Create self-reference to module
-this = sys.modules[__name__]
 
-this.used_words = list()
-this.valid_words = list()
-
-
-def __readfiles():
+def __readfiles() -> list:
     raw_df = pd.read_csv(
                 "https://raw.githubusercontent.com/bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/wordle_valid_words.txt"
                 )
-    this.valid_words = list(raw_df['valid_word'])
+    valid_words = list(raw_df['valid_word'])
     del raw_df
     raw_df = pd.read_csv(
                 "https://raw.githubusercontent.com/bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/wordle_used_words.txt"
                 )
-    this.used_words = list(raw_df['used_word'])
+    used_words = list(raw_df['used_word'])
     del raw_df
+    return [valid_words, used_words]
 
 
 def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
@@ -29,6 +23,10 @@ def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
 
     if len(pattern) != 5:
         raise ValueError("The RegEx pattern must be 5 characters long")
+
+    for c in pattern:
+        if c not in '.abcdefghijklmnopqrstuvwxyz':
+            raise ValueError("Your pattern contains characters other than . or a-z")
 
     for c in ex_ltrs:
         if c in pattern:
@@ -59,8 +57,9 @@ def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> 
         that have not yet been used"""
 
     ptrn, in_ltrs, ex_ltrs = __parseparams(pattern, keep_ltrs, elim_ltrs)
-    __readfiles()
-    unused_words = [word for word in this.valid_words if word not in this.used_words]
+    word_lists = __readfiles()
+    valid_words, used_words = word_lists[0], word_lists[1]
+    unused_words = [word for word in valid_words if word not in used_words]
     match_words = [word for word in unused_words if re.search(ptrn, word) is not None]
     possible_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
@@ -72,8 +71,9 @@ def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
         return matching words from the valid Wordle word list"""
 
     ptrn, in_ltrs, ex_ltrs = __parseparams(pattern, keep_ltrs, elim_ltrs)
-    __readfiles()
-    match_words = [word for word in this.valid_words if re.search(ptrn, word) is not None]
+    word_lists = __readfiles()
+    valid_words, used_words = word_lists[0], word_lists[1]
+    match_words = [word for word in valid_words if re.search(ptrn, word) is not None]
 
     matching_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
