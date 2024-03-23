@@ -860,6 +860,7 @@ syrup
 table
 tacit
 taken
+talon
 tangy
 taper
 tapir
