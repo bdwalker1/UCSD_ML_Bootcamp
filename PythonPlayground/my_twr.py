@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas_practice as pd
 # import numpy as np
 
 pegs = [[], [], []]
