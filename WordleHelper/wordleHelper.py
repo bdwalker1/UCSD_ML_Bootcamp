@@ -1,6 +1,6 @@
 import re
 import pandas as pd
-
+from collections import Counter
 
 def __readfiles() -> list:
     raw_df = pd.read_csv(
@@ -67,7 +67,11 @@ def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> 
     match_words = [word for word in unused_words if re.search(ptrn, word) is not None]
     possible_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
-    return possible_words
+    counts = Counter()
+    for word in possible_words:
+        counts.update(word)
+
+    return possible_words, counts.most_common(5)
 
 
 def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
@@ -86,7 +90,9 @@ def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
 
 if __name__ == '__main__':
     p = '.o...'
-    k = 'bh'
-    t = 'ofliebramustnkdcvwj'
+    k = 'le'
+    t = 'fi'
     print(matchwords(p, k, t))
-    print(matchunusedwords(p, k, t))
+    possibles, common_ltrs = matchunusedwords(p, k, t)
+    print(possibles)
+    print(common_ltrs)
