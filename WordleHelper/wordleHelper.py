@@ -30,7 +30,11 @@ def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
 
     for c in ex_ltrs:
         if c in pattern:
-            raise ValueError("Your pattern contains one of the elimination characters")
+            msg: str = f"Your pattern contains one of the elimination characters: {pattern} --> {str().join(sorted(ex_ltrs))}"
+            raise ValueError(msg)
+        if c in in_ltrs:
+            msg: str = f"Your keep letter(s) contain one of the elimination characters: {str().join(sorted(in_ltrs))} --> {str().join(sorted(ex_ltrs))}"
+            raise ValueError(msg)
     return ptrn, in_ltrs, ex_ltrs
 
 
@@ -81,8 +85,8 @@ def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
 
 
 if __name__ == '__main__':
-    p = 'ab...'
-    k = 'o'
-    t = 'url'
+    p = '.o...'
+    k = 'bh'
+    t = 'ofliebramustnkdcvwj'
     print(matchwords(p, k, t))
     print(matchunusedwords(p, k, t))
