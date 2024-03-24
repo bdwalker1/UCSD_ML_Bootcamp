@@ -10,6 +10,7 @@ def __readfiles() -> list:
     used_word_df = pd.read_csv(
                 "https://raw.githubusercontent.com/bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/wordle_used_words.txt"
                 )
+    used_word_df.set_index("used_word", inplace=True)
     return [valid_word_df, used_word_df]
 
 
@@ -21,12 +22,16 @@ def buildjson() -> pd.DataFrame:
     valid_word_df.insert(len(valid_word_df.iloc[0]), "times_used", 0)
     valid_word_df.insert(len(valid_word_df.iloc[0]), "last_used", None)
     valid_word_df.insert(len(valid_word_df.iloc[0]), "dates_used", None)
+    valid_word_df.set_index("valid_word", inplace=True)
     for index, row in valid_word_df.iterrows():
-        if row["valid_word"] in list(used_word_df["used_word"]):
+        if index in list(used_word_df.index.values):
             valid_word_df.at[index,"times_used"] += 1
-            valid_word_df.at[index,"last_used"] = dtm.strptime(used_word_df["game_date"], "%m/%d/%y:")
-    print(valid_word_df[valid_word_df['times_used'] > 0].head(20)["last_used"])
-    # print(used_word_df.head())
+            valid_word_df.at[index,"last_used"] = dtm.strptime(used_word_df.loc[index]["game_date"], "%m-%d-%Y")
+            if valid_word_df.at[index, "dates_used"] is None:
+                valid_word_df.at[index, "dates_used"] = list()
+            valid_word_df.at[index, "dates_used"].append(dtm.strptime(used_word_df.loc[index]["game_date"], "%m-%d-%Y"))
+    print(valid_word_df[valid_word_df['times_used'] > 0].head(20)["dates_used"])
+    print(valid_word_df.to_json(orient="records"))
     return valid_word_df
 
 
