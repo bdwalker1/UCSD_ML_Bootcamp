@@ -16,7 +16,7 @@ def __readfiles() -> list:
     return [valid_words, used_words]
 
 
-def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
+def __parseparams(pattern, keep_ltrs, elim_ltrs, elim_pattern: str = 'zzzzz') -> tuple:
     ptrn = pattern.lower()
     in_ltrs = keep_ltrs.lower()
     ex_ltrs = elim_ltrs.lower()
@@ -28,6 +28,16 @@ def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
         if c not in '.abcdefghijklmnopqrstuvwxyz':
             raise ValueError("Your pattern contains characters other than . or a-z")
 
+    try:
+        re.compile(pattern)
+    except re.error:
+        raise ValueError("Your match pattern is not valid regex pattern")
+
+    try:
+        re.compile(elim_pattern)
+    except re.error:
+        raise ValueError("Your elimination pattern is not valid regex pattern")
+
     for c in ex_ltrs:
         if c in pattern:
             msg: str = f"Your pattern contains one of the elimination characters: {pattern} --> {str().join(sorted(ex_ltrs))}"
@@ -35,7 +45,7 @@ def __parseparams(pattern, keep_ltrs, elim_ltrs) -> tuple:
         if c in in_ltrs:
             msg: str = f"Your keep letter(s) contain one of the elimination characters: {str().join(sorted(in_ltrs))} --> {str().join(sorted(ex_ltrs))}"
             raise ValueError(msg)
-    return ptrn, in_ltrs, ex_ltrs
+    return ptrn, in_ltrs, ex_ltrs, elim_pattern
 
 
 def _findmatchingwords(wordlist, keep_ltrs, elim_ltrs) -> list:
@@ -55,33 +65,26 @@ def _findmatchingwords(wordlist, keep_ltrs, elim_ltrs) -> list:
     return matches
 
 
-def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
+def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz') -> list:
     """Given a RegEx pattern and a string of eliminated letters,
         return matching words from the valid Wordle word list
         that have not yet been used"""
 
-    ptrn, in_ltrs, ex_ltrs = __parseparams(pattern, keep_ltrs, elim_ltrs)
-    word_lists = __readfiles()
-    valid_words, used_words = word_lists[0], word_lists[1]
-    unused_words = [word for word in valid_words if word not in used_words]
-    match_words = [word for word in unused_words if re.search(ptrn, word) is not None]
-    possible_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
+    possible_words, most_common_ltrs = matchwords(pattern, keep_ltrs, elim_ltrs, elim_pattern, unused=True)
 
-    counts = Counter()
-    for word in possible_words:
-        counts.update(word)
-
-    return possible_words, counts.most_common(5)
+    return possible_words, most_common_ltrs
 
 
-def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
+def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz', unused: bool = False) -> list:
     """Given a RegEx pattern and a string of eliminated letters,
         return matching words from the valid Wordle word list"""
 
-    ptrn, in_ltrs, ex_ltrs = __parseparams(pattern, keep_ltrs, elim_ltrs)
+    ptrn, in_ltrs, ex_ltrs, elim_ptrn = __parseparams(pattern, keep_ltrs, elim_ltrs, elim_pattern)
     word_lists = __readfiles()
     valid_words, used_words = word_lists[0], word_lists[1]
-    match_words = [word for word in valid_words if re.search(ptrn, word) is not None]
+    if unused == True:
+        valid_words = [word for word in valid_words if word not in used_words]
+    match_words = [word for word in valid_words if (re.search(ptrn, word) is not None) and (re.search(elim_ptrn, word) is None)]
 
     matching_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
@@ -99,12 +102,13 @@ if __name__ == '__main__':
     p = 's.l..'
     k = ''
     t = 'ternfoic'
-    matches, common_ltrs = matchwords(p, k, t)
+    ep = '...[ks].'
+    matches, common_ltrs = matchwords(p, k, t, ep)
     print('')
     print(matches)
     print(common_ltrs)
     print('')
-    possibles, common_ltrs = matchunusedwords(p, k, t)
+    possibles, common_ltrs = matchunusedwords(p, k, t, ep)
     print(possibles)
     print(common_ltrs)
     print('')
