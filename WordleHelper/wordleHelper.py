@@ -65,7 +65,7 @@ def _findmatchingwords(wordlist, keep_ltrs, elim_ltrs) -> list:
     return matches
 
 
-def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz') -> list:
+def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz') -> tuple:
     """Given a RegEx pattern and a string of eliminated letters,
         return matching words from the valid Wordle word list
         that have not yet been used"""
@@ -75,7 +75,7 @@ def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', eli
     return possible_words, most_common_ltrs
 
 
-def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz', unused: bool = False) -> list:
+def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz', unused: bool = False) -> tuple:
     """Given a RegEx pattern and a string of eliminated letters,
         return matching words from the valid Wordle word list"""
 
