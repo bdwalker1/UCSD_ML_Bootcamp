@@ -99,16 +99,18 @@ if __name__ == '__main__':
     from wordleHelper import matchunusedwords as muw
     from wordleHelper import matchwords as mw
 
-    p = 's.l..'
-    k = ''
-    t = 'ternfoic'
-    ep = '...[ks].'
-    matches, common_ltrs = matchwords(p, k, t, ep)
+    # p = 's.l..'
+    # k = ''
+    # t = 'ternfoic'
+    # ep = '...[ks].'
+    # matches, common_ltrs = matchwords(p, k, t, ep)
+    # print('')
+    # print(matches)
+    # print(common_ltrs)
+    # print('')
+    # possibles, common_ltrs = matchunusedwords(p, k, t, ep)
+    # print(possibles)
+    # print(common_ltrs)
     print('')
-    print(matches)
-    print(common_ltrs)
-    print('')
-    possibles, common_ltrs = matchunusedwords(p, k, t, ep)
-    print(possibles)
-    print(common_ltrs)
-    print('')
+    print("mw('.....', '', '', '')")
+    print("muw('.....', '', '', '')")
