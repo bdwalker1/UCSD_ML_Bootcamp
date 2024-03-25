@@ -85,14 +85,26 @@ def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '') -> list:
 
     matching_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
-    return matching_words
+    counts = Counter()
+    for word in matching_words:
+        counts.update(word)
+
+    return matching_words, counts.most_common(5)
 
 
 if __name__ == '__main__':
-    p = '.o...'
-    k = 'le'
-    t = 'fi'
-    print(matchwords(p, k, t))
+    from wordleHelper import matchunusedwords as muw
+    from wordleHelper import matchwords as mw
+
+    p = 's.l..'
+    k = ''
+    t = 'ternfoic'
+    matches, common_ltrs = matchwords(p, k, t)
+    print('')
+    print(matches)
+    print(common_ltrs)
+    print('')
     possibles, common_ltrs = matchunusedwords(p, k, t)
     print(possibles)
     print(common_ltrs)
+    print('')
