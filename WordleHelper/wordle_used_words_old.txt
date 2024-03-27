@@ -545,6 +545,7 @@ match
 matey
 maxim
 maybe
+mayor
 mealy
 meant
 medal
@@ -717,6 +718,7 @@ rusty
 saint
 salad
 salsa
+sally
 salty
 sassy
 saute
