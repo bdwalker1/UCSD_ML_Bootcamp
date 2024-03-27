@@ -117,5 +117,5 @@ if __name__ == '__main__':
     # print(common_ltrs)
 
     print('')
-    print("w, c = mw('.....', '', ''); print(w); print(len(w)); print(c);")
-    print("w, c = muw('.....', '', ''); print(w); print(len(w)); print(c);")
+    print("w, c = mw('.....', '', ''); print(w); print(len(w)); print(c)")
+    print("w, c = muw('.....', '', ''); print(w); print(len(w)); print(c)")
