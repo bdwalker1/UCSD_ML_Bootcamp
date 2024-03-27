@@ -16,7 +16,7 @@ def __readfiles() -> list:
     return [valid_words, used_words]
 
 
-def __parseparams(pattern, keep_ltrs, elim_ltrs, elim_pattern: str = 'zzzzz') -> tuple:
+def __parseparams(pattern, keep_ltrs, elim_ltrs, elim_pattern: list = ['zzzzz']) -> tuple:
     ptrn = pattern.lower()
     in_ltrs = keep_ltrs.lower()
     ex_ltrs = elim_ltrs.lower()
@@ -31,12 +31,13 @@ def __parseparams(pattern, keep_ltrs, elim_ltrs, elim_pattern: str = 'zzzzz') ->
     try:
         re.compile(pattern)
     except re.error:
-        raise ValueError("Your match pattern is not valid regex pattern")
+        raise ValueError("Your match pattern is not a valid regex pattern")
 
-    try:
-        re.compile(elim_pattern)
-    except re.error:
-        raise ValueError("Your elimination pattern is not valid regex pattern")
+    for excl_pattern in elim_pattern:
+        try:
+            re.compile(excl_pattern)
+        except re.error:
+            raise ValueError("One of your elimination pattern(s) is not a valid regex pattern")
 
     for c in ex_ltrs:
         if c in pattern:
@@ -75,7 +76,7 @@ def matchunusedwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', eli
     return possible_words, most_common_ltrs
 
 
-def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: str = 'zzzzz', unused: bool = False) -> tuple:
+def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_pattern: list = ['zzzzz'], unused: bool = False) -> tuple:
     """Given a RegEx pattern and a string of eliminated letters,
         return matching words from the valid Wordle word list"""
 
@@ -84,7 +85,10 @@ def matchwords(pattern: str, keep_ltrs: str = '', elim_ltrs: str = '', elim_patt
     valid_words, used_words = word_lists[0], word_lists[1]
     if unused == True:
         valid_words = [word for word in valid_words if word not in used_words]
-    match_words = [word for word in valid_words if (re.search(ptrn, word) is not None) and (re.search(elim_ptrn, word) is None)]
+    match_words = [word for word in valid_words if (re.search(ptrn, word) is not None)]
+    for excl_pattern in elim_pattern:
+        drop_words =  [word for word in match_words if (re.search(excl_pattern, word) is not None)]
+        match_words = [word for word in match_words if (word not in drop_words)]
 
     matching_words = _findmatchingwords(match_words, in_ltrs, ex_ltrs)
 
@@ -102,7 +106,7 @@ if __name__ == '__main__':
     # p = 's.l..'
     # k = ''
     # t = 'ternfoic'
-    # ep = '...[ks].'
+    # ep = ['.u...']
     # matches, common_ltrs = matchwords(p, k, t, ep)
     # print('')
     # print(matches)
@@ -113,5 +117,5 @@ if __name__ == '__main__':
     # print(common_ltrs)
 
     print('')
-    print("w, c = mw('.....', '', ''); print(w); print(c)")
-    print("w, c = muw('.....', '', ''); print(w); print(c)")
+    print("w, c = mw('.....', '', ''); print(w); print(len(w)); print(c)")
+    print("w, c = muw('.....', '', ''); print(w); print(len(w)); print(c)")
