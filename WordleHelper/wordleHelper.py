@@ -131,5 +131,5 @@ if __name__ == '__main__':
     from wordleHelper import matchwords as mw
 
     print('')
-    print("w, c = mw('.....', '', '', 'zzzzz'); print(w); print(len(w)); print(c)")
-    print("w, c = muw('.....', '', '', 'zzzzz'); print(w); print(len(w)); print(c)")
+    print("w, c = mw('.....', '', '', ['zzzzz']); print(w); print(len(w)); print(c)")
+    print("w, c = muw('.....', '', '', ['zzzzz']); print(w); print(len(w)); print(c)")
