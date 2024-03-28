@@ -800,6 +800,7 @@ sound
 sower
 space
 spade
+speak
 spell
 spelt
 spend
