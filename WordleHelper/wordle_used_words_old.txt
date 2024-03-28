@@ -846,6 +846,7 @@ stove
 strap
 straw
 study
+stung
 style
 sugar
 sulky
