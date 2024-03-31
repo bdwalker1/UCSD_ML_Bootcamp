@@ -864,6 +864,7 @@ swine
 swirl
 syrup
 table
+taboo
 tacit
 taken
 talon
