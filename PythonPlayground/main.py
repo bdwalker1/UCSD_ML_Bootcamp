@@ -16,7 +16,9 @@ import array
 # a.append('a')
 # ic(a)
 
-tup = (1,2,3,4,5,6,7,8)
+list1 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+list2 = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+list3 = [1, 3, 5, 7, 9]
 
-print(len(tup))
-print(len(tup))
+zipped = zip(list1)
+print(list(zipped))
