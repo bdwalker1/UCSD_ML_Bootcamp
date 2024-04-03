@@ -637,6 +637,7 @@ pithy
 pixel
 pixie
 place
+plait
 plank
 plant
 plate
