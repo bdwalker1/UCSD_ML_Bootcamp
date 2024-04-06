@@ -320,6 +320,7 @@ field
 fiend
 fifty
 final
+finch
 finer
 first
 fishy
