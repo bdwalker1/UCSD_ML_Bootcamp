@@ -555,6 +555,7 @@ mealy
 meant
 medal
 mercy
+merge
 merit
 merry
 metal
