@@ -524,6 +524,7 @@ lofty
 logic
 loopy
 loser
+louse
 lover
 lowly
 loyal
