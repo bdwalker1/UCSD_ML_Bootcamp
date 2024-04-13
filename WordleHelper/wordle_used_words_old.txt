@@ -839,6 +839,7 @@ stash
 state
 stead
 steed
+steel
 stein
 stick
 stiff
