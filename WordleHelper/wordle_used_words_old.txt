@@ -756,6 +756,7 @@ shade
 shake
 shall
 shame
+shank
 shard
 sharp
 shawl
