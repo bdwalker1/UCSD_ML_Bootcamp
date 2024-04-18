@@ -17,6 +17,21 @@ def __readfiles() -> list:
     return [valid_words, used_words]
 
 
+def compare_word_files() -> list:
+    """ Reads the Wordle word lists (full and used) from bdwalker1's github
+        repository and returns them as lists.
+    """
+    srvr = "https://raw.githubusercontent.com/"
+    repopath = "bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/"
+    raw_df = pd.read_csv(srvr + repopath + "wordle_used_words_old.txt")
+    oldstyle_words = list(raw_df['used_word'])
+    del raw_df
+    raw_df = pd.read_csv(srvr + repopath + "wordle_used_words.txt")
+    used_words = list(raw_df['used_word'])
+    del raw_df
+    return [word for word in used_words if word not in oldstyle_words]
+
+
 def __validateparams(pattern: str, keep_ltrs: str,
                      elim_ltrs: str, elim_pattern: list) -> tuple:
     """ Converts all parameters to lowercase and performs some basic validation
@@ -133,3 +148,5 @@ if __name__ == '__main__':
     print('')
     print("w, c = mw('.....', '', '', ['zzzzz']); print(w); print(len(w)); print(c)")
     print("w, c = muw('.....', '', '', ['zzzzz']); print(w); print(len(w)); print(c)")
+
+    print(compare_word_files())
