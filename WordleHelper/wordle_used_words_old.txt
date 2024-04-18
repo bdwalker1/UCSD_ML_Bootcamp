@@ -313,6 +313,7 @@ exist
 expel
 extra
 exult
+facet
 farce
 fault
 favor
