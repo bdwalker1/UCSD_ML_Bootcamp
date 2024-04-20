@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1036,04-20-2024,lucid
 1035,04-19-2024,raise
 1034,04-18-2024,facet
 1033,04-17-2024,tithe
