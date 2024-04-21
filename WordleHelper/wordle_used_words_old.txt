@@ -482,6 +482,7 @@ ivory
 jaunt
 jazzy
 joker
+jolly
 joust
 judge
 karma
