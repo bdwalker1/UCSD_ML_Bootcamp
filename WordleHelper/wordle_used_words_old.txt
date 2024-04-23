@@ -502,6 +502,7 @@ lapel
 lapse
 large
 larva
+laser
 latte
 layer
 leafy
@@ -726,6 +727,7 @@ rouge
 round
 rouse
 route
+rover
 royal
 ruddy
 ruder
