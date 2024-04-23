@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1039,04-23-2024,rover
+1038,04-22-2024,laser
 1037,04-21-2024,jolly
 1036,04-20-2024,lucid
 1035,04-19-2024,raise
