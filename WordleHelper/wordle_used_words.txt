@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1041,04-25-2024,intro
 1040,04-24-2024,overt
 1039,04-23-2024,rover
 1038,04-22-2024,laser
