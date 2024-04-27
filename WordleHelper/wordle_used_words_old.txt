@@ -389,6 +389,7 @@ girth
 given
 glass
 glaze
+gleam
 glean
 gloat
 globe
