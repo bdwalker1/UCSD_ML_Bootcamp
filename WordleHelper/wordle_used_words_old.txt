@@ -677,6 +677,7 @@ prize
 probe
 prove
 proxy
+prune
 psalm
 pulpy
 purge
