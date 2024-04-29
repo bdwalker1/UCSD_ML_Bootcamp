@@ -223,6 +223,7 @@ court
 covet
 cower
 coyly
+craft
 cramp
 crane
 crank
