@@ -676,8 +676,8 @@ primo
 print
 prize
 probe
-prowl
 prove
+prowl
 proxy
 prune
 psalm
