@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1046,04-30-2024,prowl
 1045,04-29-2024,craft
 1044,04-28-2024,prune
 1043,04-27-2024,gleam
