@@ -793,6 +793,7 @@ skunk
 slate
 sleek
 sleep
+slice
 slope
 slosh
 sloth
