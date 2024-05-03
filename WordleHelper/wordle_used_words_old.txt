@@ -257,6 +257,7 @@ denim
 depot
 depth
 devil
+diary
 digit
 diner
 disco
@@ -282,6 +283,7 @@ dwell
 dwelt
 early
 earth
+ebony
 egret
 eject
 elder
