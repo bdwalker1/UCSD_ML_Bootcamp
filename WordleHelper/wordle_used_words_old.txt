@@ -250,6 +250,7 @@ dance
 dandy
 death
 debug
+decal
 decay
 delta
 delve
