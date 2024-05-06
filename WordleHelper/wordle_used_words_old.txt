@@ -774,6 +774,7 @@ shame
 shank
 shard
 sharp
+shave
 shawl
 shift
 shine
