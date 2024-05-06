@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1052,05-06-2024,shave
 1051,05-05-2024,decal
 1050,05-04-2024,value
 1049,05-03-2024,ebony
