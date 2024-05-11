@@ -933,6 +933,7 @@ thump
 thyme
 tiara
 tibia
+tidal
 tiger
 tilde
 tipsy
