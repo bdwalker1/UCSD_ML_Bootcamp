@@ -242,6 +242,7 @@ crone
 cross
 crumb
 crust
+cumin
 curly
 cynic
 daddy
@@ -626,6 +627,7 @@ opera
 other
 ought
 outdo
+outer
 overt
 oxide
 panel
