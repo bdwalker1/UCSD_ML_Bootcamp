@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1059,05-13-2024,cumin
+1058,05-12-2024,outer
 1057,05-11-2024,tidal
 1056,05-10-2024,media
 1055,05-09-2024,jerky
