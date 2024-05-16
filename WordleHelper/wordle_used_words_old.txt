@@ -861,6 +861,7 @@ stage
 staid
 stair
 stale
+stall
 stand
 start
 stash
