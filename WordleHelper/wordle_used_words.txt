@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1066,05-20-2024,nicer
 1065,05-19-2024,hitch
 1064,05-18-2024,briny
 1063,05-17-2024,tutor
