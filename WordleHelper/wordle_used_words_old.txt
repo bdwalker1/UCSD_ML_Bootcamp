@@ -264,6 +264,7 @@ devil
 diary
 digit
 diner
+dingo
 disco
 ditto
 dodge
