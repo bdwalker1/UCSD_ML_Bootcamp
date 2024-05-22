@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1068,05-22-2024,exalt
 1067,05-21-2024,dingo
 1066,05-20-2024,nicer
 1065,05-19-2024,hitch
