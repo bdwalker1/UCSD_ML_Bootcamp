@@ -315,6 +315,7 @@ evade
 every
 evoke
 exact
+exalt
 excel
 exert
 exist
