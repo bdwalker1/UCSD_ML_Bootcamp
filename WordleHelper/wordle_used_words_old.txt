@@ -176,6 +176,7 @@ chafe
 chain
 champ
 chant
+chaos
 chard
 charm
 chart
