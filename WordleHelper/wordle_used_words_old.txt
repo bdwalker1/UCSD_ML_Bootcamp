@@ -313,6 +313,7 @@ erode
 error
 erupt
 essay
+ether
 ethic
 ethos
 evade
