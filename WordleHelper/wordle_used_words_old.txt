@@ -246,6 +246,7 @@ crimp
 croak
 crone
 cross
+crowd
 crumb
 crust
 cumin
