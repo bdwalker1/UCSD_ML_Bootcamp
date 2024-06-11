@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1088,06-11-2024,swung
 1087,06-10-2024,manga
 1086,06-09-2024,crowd
 1085,06-08-2024,hence
