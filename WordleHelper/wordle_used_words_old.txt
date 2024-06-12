@@ -265,6 +265,7 @@ delve
 denim
 depot
 depth
+deter
 devil
 diary
 digit
