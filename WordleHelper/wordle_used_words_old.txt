@@ -708,6 +708,7 @@ pride
 prime
 primo
 print
+prior
 prize
 probe
 proud
