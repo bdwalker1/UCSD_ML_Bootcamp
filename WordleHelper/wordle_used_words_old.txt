@@ -227,6 +227,7 @@ corny
 could
 count
 court
+cover
 covet
 cower
 coyly
