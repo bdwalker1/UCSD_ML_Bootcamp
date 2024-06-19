@@ -950,6 +950,7 @@ tease
 tempo
 tenth
 tepid
+terse
 their
 theme
 there
