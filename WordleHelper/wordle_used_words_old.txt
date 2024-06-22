@@ -297,6 +297,7 @@ dwelt
 early
 earth
 ebony
+edict
 egret
 eject
 elder
