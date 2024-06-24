@@ -278,6 +278,7 @@ disco
 ditto
 dodge
 doing
+dolly
 donor
 donut
 doubt
