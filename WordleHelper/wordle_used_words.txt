@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1101,06-24-2024,dolly
 1100,06-23-2024,bugle
 1099,06-22-2024,edict
 1098,06-21-2024,paint
