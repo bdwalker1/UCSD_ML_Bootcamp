@@ -521,6 +521,7 @@ kazoo
 kebab
 khaki
 kiosk
+knead
 kneel
 knelt
 knock
