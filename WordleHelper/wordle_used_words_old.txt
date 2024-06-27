@@ -437,8 +437,8 @@ green
 greet
 grief
 grime
-grind
 grimy
+grind
 gripe
 groin
 groom
