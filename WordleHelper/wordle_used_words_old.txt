@@ -10,6 +10,7 @@ abyss
 acrid
 actor
 acute
+adage
 adapt
 admit
 adobe
