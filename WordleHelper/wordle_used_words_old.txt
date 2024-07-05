@@ -253,6 +253,7 @@ crone
 cross
 crowd
 crumb
+crush
 crust
 cumin
 curly
