@@ -801,6 +801,7 @@ scant
 scare
 scarf
 scent
+scoff
 scold
 scope
 scorn
