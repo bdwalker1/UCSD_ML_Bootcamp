@@ -167,6 +167,7 @@ cacao
 cache
 candy
 canny
+canon
 canoe
 caper
 carat
