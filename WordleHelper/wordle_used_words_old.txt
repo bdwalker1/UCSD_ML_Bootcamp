@@ -822,6 +822,7 @@ shake
 shall
 shame
 shank
+shape
 shard
 sharp
 shave
