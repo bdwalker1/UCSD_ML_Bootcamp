@@ -113,6 +113,7 @@ birth
 black
 blame
 bland
+blare
 bleak
 bleed
 bleep
