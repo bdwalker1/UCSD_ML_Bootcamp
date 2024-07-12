@@ -521,6 +521,7 @@ ivory
 jaunt
 jazzy
 jerky
+jiffy
 joker
 jolly
 joust
