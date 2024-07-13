@@ -316,6 +316,7 @@ elude
 email
 ember
 empty
+enact
 enema
 enjoy
 ennui
