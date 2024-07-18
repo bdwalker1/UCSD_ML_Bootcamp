@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1125,07-18-2024,nerdy
 1124,07-17-2024,quite
 1123,07-16-2024,decoy
 1122,07-15-2024,swoon
