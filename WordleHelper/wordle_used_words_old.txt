@@ -827,6 +827,7 @@ serum
 serve
 sever
 shade
+shaft
 shake
 shall
 shame
