@@ -894,6 +894,7 @@ sower
 space
 spade
 speak
+speck
 spell
 spelt
 spend
