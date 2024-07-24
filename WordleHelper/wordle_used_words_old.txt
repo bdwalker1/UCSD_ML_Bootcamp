@@ -390,6 +390,7 @@ folly
 foray
 force
 forge
+forte
 forgo
 forth
 forty
