@@ -73,6 +73,7 @@ avail
 avert
 await
 awake
+awash
 awful
 axiom
 azure
