@@ -880,6 +880,7 @@ smile
 smirk
 smite
 smith
+smock
 snack
 snafu
 snail
