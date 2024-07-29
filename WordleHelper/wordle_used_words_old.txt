@@ -955,6 +955,7 @@ stung
 style
 sugar
 sulky
+super
 surer
 surly
 sushi
