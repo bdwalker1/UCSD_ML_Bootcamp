@@ -352,6 +352,7 @@ fault
 favor
 feast
 feign
+feral
 ferry
 fewer
 field
