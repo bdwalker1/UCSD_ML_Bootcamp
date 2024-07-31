@@ -691,6 +691,7 @@ patty
 pause
 peace
 peach
+penne
 perch
 perky
 pesky
