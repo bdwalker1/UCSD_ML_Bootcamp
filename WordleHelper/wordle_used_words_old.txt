@@ -185,6 +185,7 @@ cause
 cedar
 chafe
 chain
+chalk
 champ
 chant
 chaos
