@@ -817,6 +817,7 @@ sassy
 saute
 savor
 scald
+scale
 scant
 scare
 scarf
