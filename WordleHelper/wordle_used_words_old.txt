@@ -582,6 +582,7 @@ loopy
 loser
 louse
 lover
+lower
 lowly
 loyal
 lucid
