@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1146,08-08-2024,saucy
 1145,08-07-2024,macaw
 1144,08-06-2024,anvil
 1143,08-05-2024,ensue
