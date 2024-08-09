@@ -680,6 +680,7 @@ order
 organ
 other
 ought
+ounce
 outdo
 outer
 overt
