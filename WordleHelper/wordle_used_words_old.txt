@@ -831,6 +831,7 @@ scarf
 scent
 scoff
 scold
+scone
 scope
 scorn
 scour
