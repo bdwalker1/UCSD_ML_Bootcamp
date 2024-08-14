@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1152,08-14-2024,shore
+1151,08-13-2024,neigh
 1150,08-12-2024,skiff
 1149,08-11-2024,scone
 1148,08-10-2024,medic
