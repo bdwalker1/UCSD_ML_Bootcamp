@@ -658,6 +658,7 @@ nasty
 natal
 naval
 needy
+neigh
 nerdy
 never
 nicer
@@ -860,6 +861,7 @@ shift
 shine
 shire
 shirk
+shore
 shorn
 shown
 showy
