@@ -7,6 +7,7 @@ abide
 about
 above
 abyss
+acorn
 acrid
 actor
 acute
