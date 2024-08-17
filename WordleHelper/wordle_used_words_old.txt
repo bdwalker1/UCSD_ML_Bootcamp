@@ -963,6 +963,7 @@ stone
 stony
 stool
 store
+storm
 story
 stout
 stove
