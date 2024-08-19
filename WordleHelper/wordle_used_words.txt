@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1157,08-19-2024,meter
+1156,08-18-2024,lanky
 1155,08-17-2024,storm
 1154,08-16-2024,brace
 1153,08-15-2024,acorn
