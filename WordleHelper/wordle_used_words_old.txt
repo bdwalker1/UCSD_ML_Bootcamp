@@ -628,6 +628,7 @@ merge
 merit
 merry
 metal
+meter
 metro
 micro
 midge
