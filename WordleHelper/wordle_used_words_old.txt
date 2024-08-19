@@ -553,6 +553,7 @@ knoll
 koala
 label
 labor
+lanky
 lapel
 lapse
 large
