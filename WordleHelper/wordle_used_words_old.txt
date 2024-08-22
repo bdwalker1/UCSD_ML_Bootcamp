@@ -158,6 +158,7 @@ brook
 broom
 broth
 brush
+brute
 buddy
 buggy
 bugle
