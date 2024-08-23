@@ -570,6 +570,7 @@ learn
 leash
 leave
 ledge
+leech
 leery
 leggy
 lemon
