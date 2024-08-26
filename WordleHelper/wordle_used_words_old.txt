@@ -948,6 +948,7 @@ staff
 stage
 staid
 stair
+stake
 stale
 stall
 stand
