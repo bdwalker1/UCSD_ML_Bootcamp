@@ -262,6 +262,7 @@ croak
 crone
 cross
 crowd
+crown
 crumb
 crush
 crust
