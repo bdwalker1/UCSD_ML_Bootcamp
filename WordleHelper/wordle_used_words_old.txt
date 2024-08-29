@@ -394,6 +394,7 @@ floss
 flout
 fluff
 flume
+flunk
 flyer
 focal
 focus
