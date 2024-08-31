@@ -944,6 +944,7 @@ spill
 spire
 splat
 spoke
+spout
 spray
 spurt
 squad
