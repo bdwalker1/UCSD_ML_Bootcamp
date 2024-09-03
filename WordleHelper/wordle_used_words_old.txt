@@ -172,6 +172,7 @@ cable
 cacao
 cache
 cadet
+camel
 cameo
 candy
 canny
