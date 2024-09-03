@@ -355,6 +355,7 @@ expel
 extra
 exult
 facet
+faint
 farce
 fault
 favor
