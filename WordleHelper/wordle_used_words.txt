@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1172,09-03-2024,faint
+1171,09-02-2024,camel
 1170,09-01-2024,mushy
 1169,08-31-2024,spout
 1168,08-30-2024,knave
