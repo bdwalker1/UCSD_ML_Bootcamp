@@ -1148,6 +1148,7 @@ whiny
 whirl
 whisk
 whoop
+widen
 wince
 windy
 woken
