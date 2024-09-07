@@ -702,6 +702,7 @@ ounce
 outdo
 outer
 overt
+owner
 oxide
 paint
 panel
@@ -803,6 +804,7 @@ relic
 renew
 repay
 repel
+rerun
 resin
 retch
 retro
