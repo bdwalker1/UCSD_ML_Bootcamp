@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1176,09-07-2024,owner
+1175,09-06-2024,rerun
 1174,09-05-2024,widen
 1173,09-04-2024,stern
 1172,09-03-2024,faint
