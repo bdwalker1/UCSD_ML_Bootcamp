@@ -303,6 +303,7 @@ doubt
 dowry
 dozen
 drain
+drawn
 dream
 drink
 drive
