@@ -275,6 +275,7 @@ daisy
 dance
 dandy
 death
+debit
 debug
 debut
 decal
