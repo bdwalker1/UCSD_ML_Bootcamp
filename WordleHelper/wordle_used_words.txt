@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1181,09-12-2024,brass
+1180,09-11-2024,aisle
 1179,09-10-2024,rebel
 1178,09-09-2024,debit
 1177,09-08-2024,drawn
