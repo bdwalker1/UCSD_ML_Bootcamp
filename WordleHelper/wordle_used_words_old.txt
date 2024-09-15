@@ -805,6 +805,7 @@ rebel
 rebus
 rebut
 recap
+recur
 refer
 regal
 relic
