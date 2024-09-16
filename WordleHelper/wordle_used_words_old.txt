@@ -510,6 +510,7 @@ hitch
 hoard
 hobby
 homer
+honey
 horde
 horse
 hotel
