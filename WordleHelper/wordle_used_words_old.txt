@@ -427,6 +427,7 @@ front
 frost
 froth
 froze
+fully
 fungi
 funny
 gamer
