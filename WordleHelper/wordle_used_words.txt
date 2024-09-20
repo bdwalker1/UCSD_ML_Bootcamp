@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1189,09-20-2024,smoke
 1188,09-19-2024,press
 1187,09-18-2024,fully
 1186,09-17-2024,beaut
