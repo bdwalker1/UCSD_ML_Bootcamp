@@ -928,6 +928,7 @@ smirk
 smite
 smith
 smock
+smoke
 snack
 snafu
 snail
