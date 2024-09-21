@@ -875,6 +875,7 @@ seedy
 sense
 serum
 serve
+seven
 sever
 shade
 shaft
