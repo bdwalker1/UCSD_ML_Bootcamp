@@ -981,6 +981,7 @@ start
 stash
 state
 stead
+steam
 steed
 steel
 stein
