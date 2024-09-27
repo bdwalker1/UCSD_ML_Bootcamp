@@ -363,6 +363,7 @@ extra
 exult
 facet
 faint
+faith
 farce
 fault
 favor
