@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1196,09-27-2024,faith
 1195,09-26-2024,thank
 1194,09-25-2024,torch
 1193,09-24-2024,handy
