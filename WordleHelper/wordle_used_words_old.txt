@@ -827,6 +827,7 @@ retry
 revel
 rhino
 rhyme
+rider
 ridge
 right
 riper
