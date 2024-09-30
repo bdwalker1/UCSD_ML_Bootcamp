@@ -232,6 +232,7 @@ clock
 clone
 close
 cloth
+cloud
 clown
 cluck
 coach
