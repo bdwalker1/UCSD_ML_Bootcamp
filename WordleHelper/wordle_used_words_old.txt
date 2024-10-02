@@ -894,6 +894,7 @@ shard
 sharp
 shave
 shawl
+shell
 shift
 shine
 shire
