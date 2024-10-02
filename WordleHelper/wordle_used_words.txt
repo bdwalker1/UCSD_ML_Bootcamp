@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1201,10-02-2024,shell
 1200,10-01-2024,modem
 1199,09-30-2024,cloud
 1198,09-29-2024,rider
