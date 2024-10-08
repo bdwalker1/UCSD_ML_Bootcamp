@@ -555,6 +555,7 @@ jaunt
 jazzy
 jerky
 jiffy
+joint
 joker
 jolly
 joust
