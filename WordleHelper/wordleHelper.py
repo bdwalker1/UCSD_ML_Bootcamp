@@ -31,6 +31,33 @@ def compare_word_files() -> list:
     del raw_df
     return [[word for word in used_words if word not in oldstyle_words], [word for word in oldstyle_words if word not in used_words]]
 
+def novel_words() -> list:
+    """ Reads the Wordle word lists (full and used) from bdwalker1's github
+        repository and returns them as lists.
+    """
+    srvr = "https://raw.githubusercontent.com/"
+    repopath = "bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/"
+    raw_df = pd.read_csv(srvr + repopath + "wordle_valid_words.txt")
+    valid_words = list(raw_df['valid_word'])
+    del raw_df
+    raw_df = pd.read_csv(srvr + repopath + "wordle_used_words.txt")
+    used_words = list(raw_df['used_word'])
+    del raw_df
+    return sorted([word for word in used_words if word not in valid_words])
+    
+def unused_words() -> list:
+    """ Reads the Wordle word lists (full and used) from bdwalker1's github
+        repository and returns them as lists.
+    """
+    srvr = "https://raw.githubusercontent.com/"
+    repopath = "bdwalker1/UCSD_ML_Bootcamp/main/WordleHelper/"
+    raw_df = pd.read_csv(srvr + repopath + "wordle_valid_words.txt")
+    valid_words = list(raw_df['valid_word'])
+    del raw_df
+    raw_df = pd.read_csv(srvr + repopath + "wordle_used_words.txt")
+    used_words = list(raw_df['used_word'])
+    del raw_df
+    return sorted([word for word in valid_words if word not in used_words])
 
 def __validateparams(pattern: str, keep_ltrs: str,
                      elim_ltrs: str, elim_pattern: list) -> tuple:
