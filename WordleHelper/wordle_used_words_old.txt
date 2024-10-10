@@ -188,6 +188,7 @@ carat
 cargo
 carol
 carry
+carve
 catch
 cater
 caulk
