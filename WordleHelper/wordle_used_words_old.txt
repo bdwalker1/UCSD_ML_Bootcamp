@@ -985,6 +985,7 @@ squat
 staff
 stage
 staid
+stain
 stair
 stake
 stale
