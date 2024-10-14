@@ -437,6 +437,7 @@ fungi
 funny
 gamer
 gamma
+gamut
 gaudy
 gaunt
 gauze
