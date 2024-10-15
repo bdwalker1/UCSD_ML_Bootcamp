@@ -244,6 +244,7 @@ comet
 comma
 condo
 conic
+corer
 corny
 could
 count
