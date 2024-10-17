@@ -500,6 +500,7 @@ gummy
 guppy
 gusty
 hairy
+halve
 handy
 happy
 harsh
