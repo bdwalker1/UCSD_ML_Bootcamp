@@ -1011,6 +1011,7 @@ stiff
 still
 sting
 stink
+stint
 stock
 stole
 stomp
