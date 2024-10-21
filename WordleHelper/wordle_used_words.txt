@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1220,10-21-2024,spoon
 1219,10-20-2024,dicey
 1218,10-19-2024,fiber
 1217,10-18-2024,stint
