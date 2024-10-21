@@ -984,6 +984,7 @@ spill
 spire
 splat
 spoke
+spoon
 spout
 spray
 spurt
