@@ -466,6 +466,7 @@ glyph
 gnash
 golem
 goner
+goofy
 goose
 gorge
 gouge
