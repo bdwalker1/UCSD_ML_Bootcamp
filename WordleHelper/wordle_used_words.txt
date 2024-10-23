@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1222,10-23-2024,goofy
 1221,10-22-2024,shout
 1220,10-21-2024,spoon
 1219,10-20-2024,dicey
