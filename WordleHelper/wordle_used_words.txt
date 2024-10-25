@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1224,10-25-2024,frown
 1223,10-24-2024,bossy
 1222,10-23-2024,goofy
 1221,10-22-2024,shout
