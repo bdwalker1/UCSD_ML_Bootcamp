@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1228,10-29-2024,tunic
 1227,10-28-2024,bawdy
 1226,10-27-2024,sandy
 1225,10-26-2024,wreak
