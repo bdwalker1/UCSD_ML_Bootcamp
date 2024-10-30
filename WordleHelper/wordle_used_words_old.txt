@@ -330,6 +330,7 @@ dwell
 dwelt
 early
 earth
+easel
 ebony
 edict
 egret
