@@ -1189,6 +1189,7 @@ waste
 watch
 weary
 wedge
+weird
 whack
 whale
 wheel
