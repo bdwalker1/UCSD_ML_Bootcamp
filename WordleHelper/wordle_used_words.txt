@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1231,11-01-2024,sixth
 1230,10-31-2024,weird
 1229,10-30-2024,easel
 1228,10-29-2024,tunic
