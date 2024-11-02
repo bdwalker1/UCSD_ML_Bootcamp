@@ -967,6 +967,7 @@ snaky
 snare
 snarl
 sneak
+snoop
 snort
 snout
 soggy
