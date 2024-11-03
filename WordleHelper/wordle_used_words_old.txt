@@ -120,6 +120,7 @@ black
 blame
 bland
 blare
+blaze
 bleak
 bleed
 bleep
