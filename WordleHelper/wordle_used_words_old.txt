@@ -360,6 +360,7 @@ ether
 ethic
 ethos
 evade
+event
 every
 evoke
 exact
