@@ -557,6 +557,7 @@ inept
 inert
 infer
 inlay
+inner
 input
 inter
 intro
