@@ -1030,6 +1030,7 @@ sting
 stink
 stint
 stock
+stoic
 stole
 stomp
 stone
