@@ -799,6 +799,7 @@ prick
 pride
 prime
 primo
+primp
 print
 prior
 prize
