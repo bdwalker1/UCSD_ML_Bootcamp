@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1244,11-14-2024,uvula
 1243,11-13-2024,primp
 1242,11-12-2024,flown
 1241,11-11-2024,stoic
