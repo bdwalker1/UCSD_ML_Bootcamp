@@ -1190,6 +1190,7 @@ vigor
 vinyl
 viola
 viral
+visor
 vital
 vivid
 vodka
