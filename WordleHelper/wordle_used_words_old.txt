@@ -432,6 +432,7 @@ forty
 found
 foyer
 frame
+frail
 frank
 fresh
 fried
