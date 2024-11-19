@@ -472,6 +472,7 @@ glory
 glove
 glyph
 gnash
+going
 golem
 goner
 goofy
