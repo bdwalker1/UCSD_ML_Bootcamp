@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1249,11-19-2024,going
 1248,11-18-2024,frail
 1247,11-17-2024,tally
 1246,11-16-2024,visor
