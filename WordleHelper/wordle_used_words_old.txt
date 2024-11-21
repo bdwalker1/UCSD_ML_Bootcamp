@@ -1000,6 +1000,7 @@ spicy
 spiel
 spike
 spill
+spine
 spire
 splat
 spoke
