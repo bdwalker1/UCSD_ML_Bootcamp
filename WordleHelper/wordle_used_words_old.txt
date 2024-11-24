@@ -1160,6 +1160,7 @@ tweak
 twice
 twine
 twirl
+twist
 ulcer
 ultra
 uncle
