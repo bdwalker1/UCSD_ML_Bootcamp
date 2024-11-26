@@ -1231,6 +1231,7 @@ whoop
 widen
 wince
 windy
+witch
 woken
 woman
 wooer
