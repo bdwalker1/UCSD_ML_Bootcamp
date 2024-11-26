@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1256,11-26-2024,witch
 1255,11-25-2024,brown
 1254,11-24-2024,twist
 1253,11-23-2024,jelly
