@@ -952,6 +952,7 @@ skill
 skimp
 skirt
 skunk
+slang
 slate
 sleek
 sleep
