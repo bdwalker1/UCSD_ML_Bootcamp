@@ -215,6 +215,7 @@ chief
 child
 chill
 chime
+chock
 choir
 choke
 chord
