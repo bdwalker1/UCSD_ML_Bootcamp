@@ -1,5 +1,6 @@
 game_no,game_date,used_word
-1259,11-29-2025,hippo
+1260,11-30-2024,dogma
+1259,11-29-2024,hippo
 1258,11-28-2024,chock
 1257,11-27-2024,slang
 1256,11-26-2024,witch
