@@ -510,6 +510,7 @@ guard
 guest
 guide
 guild
+guile
 gully
 gummy
 guppy
