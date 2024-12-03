@@ -924,6 +924,7 @@ sever
 shade
 shaft
 shake
+shaky
 shall
 shame
 shank
