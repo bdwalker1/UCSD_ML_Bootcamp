@@ -280,6 +280,7 @@ crown
 crumb
 crush
 crust
+crypt
 cumin
 curly
 cynic
