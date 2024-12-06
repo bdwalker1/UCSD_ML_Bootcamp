@@ -943,6 +943,7 @@ shirk
 shore
 shorn
 shout
+shove
 shown
 showy
 shrub
