@@ -765,6 +765,7 @@ parer
 parry
 party
 pasta
+patio
 patty
 pause
 peace
