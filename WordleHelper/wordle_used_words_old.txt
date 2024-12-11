@@ -801,6 +801,7 @@ plate
 plaza
 pleat
 pluck
+plumb
 plunk
 point
 poise
