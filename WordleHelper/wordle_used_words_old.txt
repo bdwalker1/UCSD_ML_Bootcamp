@@ -140,6 +140,7 @@ boozy
 borax
 bossy
 bough
+boxer
 brace
 braid
 brain
