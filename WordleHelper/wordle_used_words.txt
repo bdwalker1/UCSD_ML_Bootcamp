@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1275,12-15-2024,funky
 1274,12-14-2024,drool
 1273,12-13-2024,boxer
 1272,12-12-2024,vying
