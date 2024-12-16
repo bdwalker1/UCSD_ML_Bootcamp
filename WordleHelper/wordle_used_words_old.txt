@@ -133,6 +133,7 @@ bluff
 blurb
 blurt
 blush
+boast
 booby
 boost
 booze
