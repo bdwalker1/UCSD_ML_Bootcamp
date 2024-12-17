@@ -922,6 +922,7 @@ scope
 scorn
 scour
 scout
+scowl
 scram
 scrap
 scrub
