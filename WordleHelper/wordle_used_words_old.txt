@@ -536,6 +536,7 @@ heavy
 heard
 heart
 heath
+hefty
 heist
 helix
 hello
