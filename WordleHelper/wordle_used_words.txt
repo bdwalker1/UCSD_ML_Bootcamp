@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1278,12-18-2024,hefty
 1277,12-17-2024,scowl
 1276,12-16-2024,boast
 1275,12-15-2024,funky
