@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1280,12-20-2024,flash
 1279,12-19-2024,stray
 1278,12-18-2024,hefty
 1277,12-17-2024,scowl
