@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1282,12-22-2024,brawn
 1281,12-21-2024,blade
 1280,12-20-2024,flash
 1279,12-19-2024,stray
