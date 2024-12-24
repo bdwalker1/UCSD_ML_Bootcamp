@@ -338,6 +338,7 @@ duvet
 dwarf
 dwell
 dwelt
+eagle
 early
 earth
 easel
