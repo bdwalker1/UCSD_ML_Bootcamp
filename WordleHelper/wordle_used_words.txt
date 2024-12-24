@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1284,12-24-2024,eagle
 1283,12-23-2024,sauna
 1282,12-22-2024,brawn
 1281,12-21-2024,blade
