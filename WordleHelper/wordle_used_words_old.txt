@@ -948,6 +948,7 @@ shame
 shank
 shape
 shard
+share
 sharp
 shave
 shawl
