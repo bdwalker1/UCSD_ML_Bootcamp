@@ -18,6 +18,7 @@ adobe
 adopt
 adore
 adult
+affix
 after
 again
 agape
