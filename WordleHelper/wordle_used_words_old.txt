@@ -300,6 +300,7 @@ debut
 decal
 decay
 decoy
+decry
 delay
 delta
 delve
