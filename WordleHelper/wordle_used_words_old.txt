@@ -671,6 +671,7 @@ magic
 magma
 maize
 major
+mambo
 manga
 mania
 manly
