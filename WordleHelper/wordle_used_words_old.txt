@@ -1053,6 +1053,7 @@ stake
 stale
 stall
 stand
+stare
 stark
 start
 stash
