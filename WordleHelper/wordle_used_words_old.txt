@@ -638,6 +638,7 @@ leech
 leery
 leggy
 lemon
+lemur
 libel
 light
 lilac
