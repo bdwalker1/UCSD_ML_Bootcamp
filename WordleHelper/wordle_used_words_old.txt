@@ -740,6 +740,7 @@ naval
 needy
 neigh
 nerdy
+nerve
 never
 nicer
 niche
