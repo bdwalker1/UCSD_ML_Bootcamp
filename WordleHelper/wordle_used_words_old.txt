@@ -224,6 +224,7 @@ chock
 choir
 choke
 chord
+chose
 chunk
 chute
 cider
