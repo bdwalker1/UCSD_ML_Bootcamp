@@ -290,6 +290,7 @@ crust
 crypt
 cumin
 curly
+cyber
 cynic
 daddy
 daisy
