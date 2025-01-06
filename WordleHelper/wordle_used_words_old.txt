@@ -1047,6 +1047,7 @@ spoke
 spoon
 spout
 spray
+sprig
 spurt
 squad
 squat
