@@ -329,6 +329,7 @@ donut
 doubt
 dowry
 dozen
+draft
 drain
 drawn
 dream
