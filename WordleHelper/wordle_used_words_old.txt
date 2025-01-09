@@ -1251,6 +1251,7 @@ voter
 vouch
 vying
 wacky
+wafer
 wagon
 waltz
 waste
