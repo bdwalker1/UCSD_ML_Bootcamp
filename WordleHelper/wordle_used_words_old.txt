@@ -273,6 +273,7 @@ crank
 crass
 crate
 crave
+crawl
 craze
 crazy
 creak
