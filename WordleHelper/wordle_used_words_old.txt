@@ -319,6 +319,7 @@ dicey
 digit
 diner
 dingo
+dingy
 disco
 ditto
 dodge
