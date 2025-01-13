@@ -242,6 +242,7 @@ clerk
 click
 climb
 cling
+cloak
 clock
 clone
 close
