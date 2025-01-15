@@ -618,6 +618,7 @@ kazoo
 kebab
 khaki
 kiosk
+knack
 knave
 knead
 kneel
