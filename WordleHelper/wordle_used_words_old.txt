@@ -427,6 +427,7 @@ flask
 flesh
 flick
 fling
+flint
 flirt
 float
 flock
