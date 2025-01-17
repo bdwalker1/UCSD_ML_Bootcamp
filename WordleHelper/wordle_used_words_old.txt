@@ -850,6 +850,7 @@ prize
 probe
 prone
 prong
+prose
 proud
 prove
 prowl
