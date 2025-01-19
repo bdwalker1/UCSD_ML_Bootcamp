@@ -918,6 +918,7 @@ round
 rouse
 route
 rover
+rower
 royal
 ruddy
 ruder
