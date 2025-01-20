@@ -1062,6 +1062,7 @@ sprig
 spurt
 squad
 squat
+squid
 staff
 stage
 staid
