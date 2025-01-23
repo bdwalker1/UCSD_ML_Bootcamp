@@ -1231,6 +1231,7 @@ unmet
 untie
 until
 unzip
+upper
 upset
 urban
 usage
