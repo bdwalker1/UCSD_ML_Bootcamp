@@ -1113,6 +1113,7 @@ stung
 style
 sugar
 sulky
+sunny
 super
 surer
 surly
