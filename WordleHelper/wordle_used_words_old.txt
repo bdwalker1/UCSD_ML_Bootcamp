@@ -405,6 +405,7 @@ feast
 feign
 feral
 ferry
+fever
 fewer
 fiber
 field
