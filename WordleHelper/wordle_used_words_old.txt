@@ -397,6 +397,7 @@ exult
 facet
 faint
 faith
+false
 fancy
 farce
 fault
