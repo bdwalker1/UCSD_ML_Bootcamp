@@ -913,6 +913,7 @@ right
 riper
 risen
 rival
+rivet
 robin
 robot
 rocky
