@@ -226,6 +226,7 @@ chock
 choir
 choke
 chord
+chore
 chose
 chunk
 chute
