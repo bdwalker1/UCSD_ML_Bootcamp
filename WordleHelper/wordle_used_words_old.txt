@@ -906,6 +906,7 @@ retch
 retro
 retry
 revel
+revue
 rhino
 rhyme
 rider
