@@ -803,6 +803,7 @@ pause
 peace
 peach
 pearl
+pedal
 penne
 perch
 perky
