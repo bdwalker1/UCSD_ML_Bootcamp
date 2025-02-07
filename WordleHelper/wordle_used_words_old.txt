@@ -1126,6 +1126,7 @@ super
 surer
 surly
 sushi
+swath
 sweat
 sweep
 sweet
