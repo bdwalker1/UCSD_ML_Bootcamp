@@ -507,6 +507,7 @@ gnash
 going
 golem
 goner
+goody
 goofy
 goose
 gorge
