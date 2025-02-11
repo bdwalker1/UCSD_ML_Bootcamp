@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1333,02-11-2025,score
 1332,02-10-2025,goody
 1331,02-09-2025,bonus
 1330,02-08-2025,steep
