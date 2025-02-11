@@ -958,6 +958,7 @@ scoff
 scold
 scone
 scope
+score
 scorn
 scour
 scout
