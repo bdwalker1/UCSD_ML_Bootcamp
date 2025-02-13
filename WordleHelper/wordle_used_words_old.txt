@@ -886,6 +886,7 @@ raise
 ramen
 ranch
 range
+rapid
 ratio
 rayon
 reach
