@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1335,02-13-2025,rumba
+1334,02-12-2025,rapid
 1333,02-11-2025,score
 1332,02-10-2025,goody
 1331,02-09-2025,bonus
