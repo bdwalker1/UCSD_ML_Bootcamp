@@ -327,6 +327,7 @@ dingo
 dingy
 disco
 ditto
+ditty
 dodge
 dogma
 doing
