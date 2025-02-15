@@ -288,6 +288,7 @@ crimp
 crisp
 croak
 crone
+crook
 cross
 crowd
 crown
