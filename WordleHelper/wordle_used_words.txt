@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1342,02-20-2015,roach
 1341,02-19-2024,madly
 1340,02-18-2025,indie
 1339,02-17-2025,trail
