@@ -250,6 +250,7 @@ clone
 close
 cloth
 cloud
+clove
 clown
 cluck
 coach
