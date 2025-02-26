@@ -78,6 +78,7 @@ avail
 avert
 await
 awake
+award
 awash
 awful
 axiom
