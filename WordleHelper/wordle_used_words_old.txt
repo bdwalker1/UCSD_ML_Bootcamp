@@ -484,6 +484,7 @@ fully
 fungi
 funky
 funny
+fuzzy
 gamer
 gamma
 gamut
