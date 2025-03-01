@@ -587,6 +587,7 @@ horse
 hotel
 hound
 house
+hover
 howdy
 human
 humid
