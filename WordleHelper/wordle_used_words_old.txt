@@ -315,6 +315,7 @@ decal
 decay
 decoy
 decry
+deity
 delay
 delta
 delve
