@@ -1073,6 +1073,7 @@ sower
 space
 spade
 speak
+spear
 speck
 spell
 spelt
