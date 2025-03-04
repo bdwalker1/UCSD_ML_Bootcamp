@@ -217,6 +217,7 @@ charm
 chart
 cheap
 cheat
+check
 cheek
 cheer
 chest
