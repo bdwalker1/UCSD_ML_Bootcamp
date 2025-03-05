@@ -984,6 +984,7 @@ scowl
 scram
 scrap
 scrub
+scrum
 sedan
 seedy
 sense
