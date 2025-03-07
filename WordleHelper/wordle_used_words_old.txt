@@ -1242,6 +1242,7 @@ triad
 trice
 trite
 troll
+troop
 trope
 trove
 truly
