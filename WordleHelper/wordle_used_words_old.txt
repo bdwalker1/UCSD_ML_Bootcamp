@@ -1091,6 +1091,7 @@ spike
 spill
 spine
 spire
+spite
 splat
 spoke
 spoon
