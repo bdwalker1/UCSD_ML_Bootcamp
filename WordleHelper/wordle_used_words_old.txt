@@ -709,6 +709,7 @@ maize
 major
 mambo
 manga
+mango
 mania
 manly
 manor
