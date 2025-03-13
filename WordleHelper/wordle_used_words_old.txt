@@ -216,6 +216,7 @@ chaos
 chard
 charm
 chart
+chase
 cheap
 cheat
 check
