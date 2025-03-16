@@ -1114,6 +1114,7 @@ stair
 stake
 stale
 stall
+stamp
 stand
 stare
 stark
