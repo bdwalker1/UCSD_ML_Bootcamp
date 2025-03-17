@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1367,03-17-2025,lasso
 1366,03-16-2025,stamp
 1365,03-15-2025,ladle
 1364,03-14-2025,piece
