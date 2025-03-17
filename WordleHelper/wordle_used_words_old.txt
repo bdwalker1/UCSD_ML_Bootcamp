@@ -660,6 +660,7 @@ lapse
 large
 larva
 laser
+lasso
 latte
 layer
 leafy
