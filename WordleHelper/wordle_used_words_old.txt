@@ -1082,6 +1082,7 @@ sound
 sower
 space
 spade
+spark
 speak
 spear
 speck
