@@ -94,6 +94,7 @@ banal
 barge
 basic
 basin
+baste
 bathe
 baton
 batty
