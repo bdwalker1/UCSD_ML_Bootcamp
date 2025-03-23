@@ -344,6 +344,7 @@ doing
 dolly
 donor
 donut
+dopey
 doubt
 dowry
 dozen
