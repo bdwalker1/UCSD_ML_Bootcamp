@@ -51,6 +51,7 @@ amiss
 ample
 angel
 anger
+angle
 angry
 angst
 anode
