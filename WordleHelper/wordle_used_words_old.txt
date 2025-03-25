@@ -1018,6 +1018,7 @@ share
 sharp
 shave
 shawl
+shelf
 shell
 shift
 shine
