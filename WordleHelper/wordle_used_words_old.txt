@@ -374,6 +374,7 @@ ebony
 edict
 egret
 eject
+elbow
 elder
 elope
 elude
