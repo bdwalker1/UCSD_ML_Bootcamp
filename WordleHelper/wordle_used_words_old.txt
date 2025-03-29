@@ -1086,6 +1086,7 @@ solar
 solid
 solve
 sonic
+sorry
 sound
 sower
 space
