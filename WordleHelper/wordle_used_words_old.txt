@@ -635,6 +635,7 @@ jaunt
 jazzy
 jelly
 jerky
+jewel
 jiffy
 joint
 joker
