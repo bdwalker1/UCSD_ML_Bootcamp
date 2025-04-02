@@ -308,6 +308,7 @@ crust
 crypt
 cumin
 curly
+curse
 cyber
 cynic
 daddy
