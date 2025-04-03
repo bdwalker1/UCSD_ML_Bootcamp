@@ -1023,6 +1023,7 @@ share
 sharp
 shave
 shawl
+shear
 sheet
 shelf
 shell
