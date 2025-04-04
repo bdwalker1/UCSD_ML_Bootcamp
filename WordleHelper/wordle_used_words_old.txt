@@ -658,6 +658,7 @@ knelt
 knock
 knoll
 koala
+krill
 label
 labor
 ladle
