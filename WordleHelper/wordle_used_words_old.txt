@@ -466,6 +466,7 @@ flume
 flung
 flunk
 flyer
+foamy
 focal
 focus
 foggy
