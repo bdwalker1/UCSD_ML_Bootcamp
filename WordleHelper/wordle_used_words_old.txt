@@ -575,6 +575,7 @@ harsh
 hatch
 hater
 havoc
+hazel
 heady
 heave
 heavy
