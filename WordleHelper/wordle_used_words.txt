@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1388,04-07-2025,hazel
 1387,04-06-2025,villa
 1386,04-05-2025,foamy
 1385,04-04-2025,krill
