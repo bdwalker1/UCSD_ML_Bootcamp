@@ -1350,6 +1350,7 @@ wedge
 weird
 whack
 whale
+wheat
 wheel
 whelp
 where
