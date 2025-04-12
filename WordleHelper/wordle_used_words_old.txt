@@ -803,6 +803,7 @@ noble
 noise
 north
 nudge
+nurse
 nymph
 occur
 ocean
