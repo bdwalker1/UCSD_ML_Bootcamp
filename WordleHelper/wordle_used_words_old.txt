@@ -674,6 +674,7 @@ larva
 laser
 lasso
 latte
+laugh
 layer
 leafy
 leaky
