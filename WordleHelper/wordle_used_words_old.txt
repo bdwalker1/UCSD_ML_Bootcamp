@@ -341,6 +341,7 @@ digit
 diner
 dingo
 dingy
+dirge
 disco
 ditto
 ditty
@@ -621,6 +622,7 @@ igloo
 image
 impel
 inane
+inbox
 index
 indie
 inept
@@ -1166,6 +1168,7 @@ stole
 stomp
 stone
 stony
+stood
 stool
 store
 storm
