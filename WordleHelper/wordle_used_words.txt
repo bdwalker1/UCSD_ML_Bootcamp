@@ -1,4 +1,7 @@
 game_no,game_date,used_word
+1400,04-19-2025,inbox
+1399,04-18-2025,dirge
+1398,04-17-2025,stood
 1397,04-16-2025,moral
 1396,04-15-2025,ashen
 1395,04-14-2025,crest
