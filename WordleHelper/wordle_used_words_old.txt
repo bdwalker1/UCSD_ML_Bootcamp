@@ -1110,6 +1110,7 @@ space
 spade
 spare
 spark
+spate
 speak
 spear
 speck
