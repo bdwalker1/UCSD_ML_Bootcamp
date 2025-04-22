@@ -69,6 +69,7 @@ ardor
 argue
 aroma
 arrow
+artsy
 ascot
 ashen
 aside
