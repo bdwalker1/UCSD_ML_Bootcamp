@@ -510,6 +510,7 @@ gaunt
 gauze
 gawky
 gecko
+genie
 genre
 ghoul
 giant
