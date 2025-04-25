@@ -666,6 +666,7 @@ kneel
 knelt
 knock
 knoll
+known
 koala
 krill
 label
