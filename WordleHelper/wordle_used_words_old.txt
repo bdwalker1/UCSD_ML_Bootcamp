@@ -1364,6 +1364,7 @@ waste
 watch
 weary
 wedge
+weedy
 weird
 whack
 whale
