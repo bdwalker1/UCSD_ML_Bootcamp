@@ -1384,6 +1384,7 @@ whiny
 whirl
 whisk
 whoop
+whose
 widen
 wince
 windy
