@@ -852,6 +852,7 @@ party
 pasta
 patch
 patio
+patsy
 patty
 pause
 peace
