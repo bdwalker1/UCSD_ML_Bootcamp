@@ -1196,6 +1196,7 @@ stung
 style
 suave
 sugar
+suite
 sulky
 sunny
 super
