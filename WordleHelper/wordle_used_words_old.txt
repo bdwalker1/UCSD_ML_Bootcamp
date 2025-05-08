@@ -95,6 +95,7 @@ badge
 badly
 bagel
 baker
+balmy
 balsa
 banal
 barge
