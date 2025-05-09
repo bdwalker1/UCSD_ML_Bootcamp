@@ -1295,6 +1295,7 @@ treat
 trend
 triad
 trice
+tripe
 trite
 troll
 troop
