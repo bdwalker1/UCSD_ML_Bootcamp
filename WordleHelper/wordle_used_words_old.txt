@@ -358,6 +358,7 @@ donor
 donut
 dopey
 doubt
+dowel
 dowry
 dozen
 draft
