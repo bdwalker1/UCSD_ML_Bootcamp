@@ -124,6 +124,7 @@ beret
 berth
 beset
 bevel
+bicep
 binge
 biome
 birch
