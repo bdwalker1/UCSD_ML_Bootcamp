@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1424,05-13-2025,aware
 1423,05-12-2025,bicep
 1422,05-11-2025,dowel
 1421,05-10-2025,yeast
