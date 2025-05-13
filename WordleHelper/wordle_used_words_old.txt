@@ -86,6 +86,7 @@ avert
 await
 awake
 award
+aware
 awash
 awful
 axiom
