@@ -382,6 +382,7 @@ duvet
 dwarf
 dwell
 dwelt
+eager
 eagle
 early
 earth
