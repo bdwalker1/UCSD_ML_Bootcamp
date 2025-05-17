@@ -573,6 +573,7 @@ group
 grout
 grove
 growl
+grown
 gruel
 guano
 guard
