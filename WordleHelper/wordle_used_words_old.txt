@@ -889,6 +889,7 @@ pinto
 pious
 piper
 pique
+pitch
 pithy
 pixel
 pixie
