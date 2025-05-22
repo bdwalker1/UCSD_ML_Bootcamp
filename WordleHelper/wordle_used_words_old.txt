@@ -488,6 +488,7 @@ foamy
 focal
 focus
 foggy
+folio
 folly
 foray
 force
