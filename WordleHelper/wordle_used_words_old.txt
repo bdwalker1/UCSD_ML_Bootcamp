@@ -911,6 +911,7 @@ plunk
 point
 poise
 poker
+polar
 polka
 polyp
 porch
