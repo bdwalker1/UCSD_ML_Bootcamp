@@ -1004,6 +1004,7 @@ rodeo
 rogue
 roomy
 rouge
+rough
 round
 rouse
 route
