@@ -919,6 +919,7 @@ polyp
 porch
 pound
 power
+preen
 press
 price
 prick
