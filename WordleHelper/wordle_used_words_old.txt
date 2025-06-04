@@ -222,6 +222,7 @@ catch
 cater
 caulk
 cause
+cease
 cedar
 chafe
 chain
