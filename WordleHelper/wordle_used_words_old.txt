@@ -330,6 +330,7 @@ daddy
 daisy
 dance
 dandy
+datum
 death
 debit
 debug
