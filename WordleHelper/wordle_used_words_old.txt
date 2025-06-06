@@ -395,6 +395,7 @@ earth
 easel
 ebony
 edict
+edify
 egret
 eject
 elbow
