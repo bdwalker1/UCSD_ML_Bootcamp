@@ -711,6 +711,7 @@ leafy
 leaky
 leapt
 learn
+lease
 leash
 leave
 ledge
