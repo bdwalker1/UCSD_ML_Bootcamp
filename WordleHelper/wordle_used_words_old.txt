@@ -151,6 +151,7 @@ bluff
 blurb
 blurt
 blush
+board
 boast
 bongo
 bonus
