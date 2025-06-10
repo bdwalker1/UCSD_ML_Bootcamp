@@ -1251,6 +1251,7 @@ table
 taboo
 tacit
 tacky
+taffy
 taken
 tally
 talon
