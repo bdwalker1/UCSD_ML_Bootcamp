@@ -907,6 +907,7 @@ pithy
 pixel
 pixie
 place
+plaid
 plait
 plank
 plant
