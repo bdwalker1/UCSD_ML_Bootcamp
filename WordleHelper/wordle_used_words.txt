@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1459,06-17-2025,prank
 1458,06-16-2025,petty
 1457,06-15-2025,quail
 1456,06-14-2025,ghost
