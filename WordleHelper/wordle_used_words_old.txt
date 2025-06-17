@@ -929,6 +929,7 @@ polyp
 porch
 pound
 power
+prank
 preen
 press
 price
