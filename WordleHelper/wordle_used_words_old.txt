@@ -324,6 +324,7 @@ crush
 crust
 crypt
 cumin
+curio
 curly
 curse
 cyber
