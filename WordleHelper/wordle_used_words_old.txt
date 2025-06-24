@@ -403,6 +403,7 @@ egret
 eject
 elbow
 elder
+elite
 elope
 elude
 email
