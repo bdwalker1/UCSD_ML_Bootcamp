@@ -282,6 +282,7 @@ coast
 cocoa
 colon
 comet
+comfy
 comma
 condo
 conic
