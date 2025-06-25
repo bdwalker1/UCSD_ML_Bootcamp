@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1467,06-25-2025,comfy
 1466,06-24-2025,elite
 1465,06-23-2025,oddly
 1464,06-22-2025,thrum
