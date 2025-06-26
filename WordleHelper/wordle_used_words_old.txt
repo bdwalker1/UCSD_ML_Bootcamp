@@ -854,6 +854,7 @@ ocean
 octet
 oddly
 offal
+offer
 often
 older
 olive
