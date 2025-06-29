@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1471,06-29-2025,witty
 1470,06-28-2025,stump
 1469,06-27-2025,plain
 1468,06-26-2025,offer
