@@ -1445,6 +1445,7 @@ widen
 wince
 windy
 witch
+witty
 woken
 woman
 wooer
