@@ -143,6 +143,7 @@ bleak
 bleed
 bleep
 blimp
+blink
 bliss
 block
 bloke
