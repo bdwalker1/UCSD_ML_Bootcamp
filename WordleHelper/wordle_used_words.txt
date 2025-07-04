@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1476,07-04-2025,curve
+1475,07-03-2025,poppy
 1474,07-02-2025,incur
 1473,07-01-2025,moldy
 1472,06-30-2025,blink
