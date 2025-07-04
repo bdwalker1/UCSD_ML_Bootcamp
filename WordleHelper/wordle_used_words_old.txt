@@ -329,6 +329,7 @@ cumin
 curio
 curly
 curse
+curve
 cyber
 cynic
 daddy
