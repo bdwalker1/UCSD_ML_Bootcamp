@@ -1224,6 +1224,7 @@ stern
 stick
 stiff
 still
+stilt
 sting
 stink
 stint
