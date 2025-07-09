@@ -853,6 +853,7 @@ ninth
 noble
 noise
 north
+novel
 nudge
 nurse
 nymph
