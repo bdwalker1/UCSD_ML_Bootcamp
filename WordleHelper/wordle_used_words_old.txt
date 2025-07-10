@@ -690,6 +690,7 @@ jolly
 joust
 judge
 juice
+jumpy
 karma
 kayak
 kazoo
