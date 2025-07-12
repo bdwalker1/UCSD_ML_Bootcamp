@@ -442,6 +442,7 @@ exact
 exalt
 excel
 exert
+exile
 exist
 expel
 extra
