@@ -563,6 +563,7 @@ glory
 glove
 glyph
 gnash
+gnome
 going
 golem
 goner
