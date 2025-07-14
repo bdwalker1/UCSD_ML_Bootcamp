@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1486,07-14-2025,undid
 1485,07-13-2025,gnome
 1484,07-12-2025,exile
 1483,07-11-2025,brand
