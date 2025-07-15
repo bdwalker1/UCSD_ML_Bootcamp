@@ -505,6 +505,7 @@ foamy
 focal
 focus
 foggy
+foist
 folio
 folly
 foray
