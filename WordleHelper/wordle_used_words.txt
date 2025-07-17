@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1489,07-17-2025,modal
 1488,07-16-2025,nervy
 1487,07-15-2025,foist
 1486,07-14-2025,undid
