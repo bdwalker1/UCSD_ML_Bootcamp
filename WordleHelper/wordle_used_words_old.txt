@@ -754,6 +754,7 @@ lodge
 lofty
 logic
 loopy
+loris
 loser
 louse
 lover
