@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1491,07-19-2025,sword
 1490,07-18-2025,loris
 1489,07-17-2025,modal
 1488,07-16-2025,nervy
