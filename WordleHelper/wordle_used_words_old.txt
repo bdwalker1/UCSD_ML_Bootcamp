@@ -139,6 +139,7 @@ black
 blade
 blame
 bland
+blank
 blare
 blaze
 bleak
