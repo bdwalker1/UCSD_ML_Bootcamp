@@ -1445,6 +1445,7 @@ wagon
 waltz
 waste
 watch
+water
 weary
 wedge
 weedy
