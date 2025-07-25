@@ -567,6 +567,7 @@ glove
 glyph
 gnash
 gnome
+gofer
 going
 golem
 goner
