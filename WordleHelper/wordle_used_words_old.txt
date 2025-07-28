@@ -1071,6 +1071,7 @@ saucy
 sauna
 saute
 savor
+savvy
 scald
 scale
 scant
