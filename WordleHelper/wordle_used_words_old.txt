@@ -344,6 +344,7 @@ daisy
 dance
 dandy
 datum
+daunt
 death
 debit
 debug
