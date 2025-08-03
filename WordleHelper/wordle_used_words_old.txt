@@ -771,6 +771,7 @@ lowly
 loyal
 lucid
 lucky
+lumpy
 lunar
 lunch
 lunge
