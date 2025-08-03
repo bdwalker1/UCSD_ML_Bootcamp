@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1506,08-03-2025,lumpy
 1505,08-02-2025,daunt
 1504,08-01-2025,banjo
 1503,07-31-2025,frill
