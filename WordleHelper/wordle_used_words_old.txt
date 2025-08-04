@@ -1042,6 +1042,7 @@ rhyme
 rider
 ridge
 right
+rigid
 riper
 risen
 rival
