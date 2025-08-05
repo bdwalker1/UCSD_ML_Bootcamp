@@ -1260,6 +1260,7 @@ stony
 stood
 stool
 store
+stork
 storm
 story
 stout
