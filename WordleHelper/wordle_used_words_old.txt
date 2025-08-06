@@ -599,6 +599,7 @@ grime
 grimy
 grind
 gripe
+groan
 groin
 groom
 group
