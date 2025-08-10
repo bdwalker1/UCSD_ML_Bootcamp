@@ -825,6 +825,7 @@ midst
 mimic
 mince
 miner
+minty
 minus
 modal
 model
