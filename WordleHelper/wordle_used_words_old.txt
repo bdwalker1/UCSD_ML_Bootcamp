@@ -1195,6 +1195,7 @@ solve
 sonic
 sorry
 sound
+south
 sower
 space
 spade
