@@ -710,6 +710,7 @@ karma
 kayak
 kazoo
 kebab
+kefir
 khaki
 kiosk
 knack
