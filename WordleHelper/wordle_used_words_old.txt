@@ -717,6 +717,7 @@ knack
 knave
 knead
 kneel
+knell
 knelt
 knock
 knoll
