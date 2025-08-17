@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1520,08-17-2025,lousy
 1519,08-16-2025,matte
 1518,08-15-2025,level
 1517,08-14-2025,knell
