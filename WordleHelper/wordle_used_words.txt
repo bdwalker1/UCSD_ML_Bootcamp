@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1522,08-19-2025,rowdy
 1521,08-18-2025,issue
 1520,08-17-2025,lousy
 1519,08-16-2025,matte
