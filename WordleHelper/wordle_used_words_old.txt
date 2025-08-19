@@ -1072,6 +1072,7 @@ round
 rouse
 route
 rover
+rowdy
 rower
 royal
 ruddy
