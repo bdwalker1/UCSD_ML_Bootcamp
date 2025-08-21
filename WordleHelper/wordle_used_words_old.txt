@@ -451,6 +451,7 @@ exert
 exile
 exist
 expel
+extol
 extra
 exult
 facet
