@@ -1026,6 +1026,7 @@ ranch
 range
 rapid
 ratio
+ratty
 rayon
 reach
 react
