@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1526,08-23-2025,union
 1525,08-22-2025,ratty
 1524,08-21-2025,extol
 1523,08-20-2025,llama
