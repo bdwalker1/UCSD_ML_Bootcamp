@@ -1426,6 +1426,7 @@ undue
 unfed
 unfit
 unify
+union
 unite
 unlit
 unmet
