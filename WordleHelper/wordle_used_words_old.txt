@@ -1231,6 +1231,7 @@ spite
 splat
 spoke
 spoon
+spore
 sport
 spout
 spray
