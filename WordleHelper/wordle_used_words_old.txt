@@ -585,6 +585,7 @@ gorge
 gouge
 grace
 grade
+graft
 grail
 grain
 grand
