@@ -939,6 +939,7 @@ penne
 perch
 perky
 pesky
+petal
 petty
 phase
 phone
