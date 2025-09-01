@@ -749,6 +749,7 @@ leapt
 learn
 lease
 leash
+least
 leave
 ledge
 leech
