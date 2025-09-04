@@ -148,6 +148,7 @@ blaze
 bleak
 bleed
 bleep
+blend
 blimp
 blink
 bliss
