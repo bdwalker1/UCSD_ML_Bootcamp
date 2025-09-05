@@ -391,6 +391,7 @@ drain
 drawn
 dread
 dream
+drift
 drink
 drive
 droll
