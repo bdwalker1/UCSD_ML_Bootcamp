@@ -209,6 +209,7 @@ buggy
 bugle
 build
 built
+bulge
 bulky
 bully
 bunch
