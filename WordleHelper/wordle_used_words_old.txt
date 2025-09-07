@@ -1346,6 +1346,7 @@ teach
 teary
 tease
 tempo
+tenor
 tenth
 tepid
 terse
