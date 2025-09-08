@@ -257,6 +257,7 @@ chief
 child
 chill
 chime
+chirp
 chock
 choir
 choke
