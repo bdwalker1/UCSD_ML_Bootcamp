@@ -239,6 +239,7 @@ cease
 cedar
 chafe
 chain
+chair
 chalk
 champ
 chant
