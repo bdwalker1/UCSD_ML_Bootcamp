@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1547,09-13-2025,nadir
 1546,09-12-2025,throb
 1545,09-11-2025,chair
 1544,09-10-2025,pouty
