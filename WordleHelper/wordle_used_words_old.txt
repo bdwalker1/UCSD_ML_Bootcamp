@@ -42,6 +42,7 @@ alive
 allow
 aloft
 alone
+along
 aloof
 aloud
 alpha
