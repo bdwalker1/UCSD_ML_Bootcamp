@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1550,09-16-2025,lefty
 1549,09-15-2025,along
 1548,09-14-2025,noisy
 1547,09-13-2025,nadir
