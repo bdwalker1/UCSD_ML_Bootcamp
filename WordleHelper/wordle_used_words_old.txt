@@ -731,6 +731,7 @@ knead
 kneel
 knell
 knelt
+knife
 knock
 knoll
 known
