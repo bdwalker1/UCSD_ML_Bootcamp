@@ -1,4 +1,6 @@
 game_no,game_date,used_word
+1552,09-18-2025,knife
+1551,09-17-2025,teeth
 1550,09-16-2025,lefty
 1549,09-15-2025,along
 1548,09-14-2025,noisy
