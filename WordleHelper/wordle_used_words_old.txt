@@ -360,6 +360,7 @@ decal
 decay
 decoy
 decry
+defer
 deity
 delay
 delta
