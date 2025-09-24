@@ -871,6 +871,7 @@ moult
 mount
 mourn
 mouse
+mouth
 movie
 mucky
 mulch
