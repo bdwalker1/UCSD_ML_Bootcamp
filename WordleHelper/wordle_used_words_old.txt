@@ -395,6 +395,7 @@ dowry
 dozen
 draft
 drain
+drape
 drawn
 dread
 dream
