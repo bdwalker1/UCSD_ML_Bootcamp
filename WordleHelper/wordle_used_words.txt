@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1561,09-27-2025,fritz
 1560,09-26-2025,dally
 1559,09-25-2025,drape
 1558,09-24-2025,blunt
