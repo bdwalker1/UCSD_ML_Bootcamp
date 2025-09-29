@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1563,09-29-2025,civil
 1562,09-28-2025,gooey
 1561,09-27-2025,fritz
 1560,09-26-2025,dally
