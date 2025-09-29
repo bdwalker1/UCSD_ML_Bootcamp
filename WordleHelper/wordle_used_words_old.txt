@@ -274,6 +274,7 @@ cigar
 cinch
 circa
 civic
+civil
 clash
 class
 clean
