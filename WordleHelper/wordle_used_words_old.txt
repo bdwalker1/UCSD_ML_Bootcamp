@@ -566,6 +566,7 @@ gaunt
 gauze
 gawky
 gecko
+geese
 genie
 genre
 ghost
