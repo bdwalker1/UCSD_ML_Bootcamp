@@ -1,6 +1,6 @@
 game_no,game_date,used_word
 1566,10-02-2025,width
-1565,10-01-2025,broil
+1565,10-01-2025,spoil
 1564,09-30-2025,geese
 1563,09-29-2025,civil
 1562,09-28-2025,gooey
