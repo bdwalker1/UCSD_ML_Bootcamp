@@ -1243,6 +1243,7 @@ space
 spade
 spare
 spark
+spasm
 spate
 speak
 spear
