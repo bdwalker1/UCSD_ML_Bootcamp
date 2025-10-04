@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1568,10-04-2025,relay
 1567,10-03-2025,spasm
 1566,10-02-2025,width
 1565,10-01-2025,spoil
