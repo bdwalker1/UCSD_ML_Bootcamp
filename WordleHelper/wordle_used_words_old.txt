@@ -989,6 +989,7 @@ place
 plaid
 plain
 plait
+plane
 plank
 plant
 plate
