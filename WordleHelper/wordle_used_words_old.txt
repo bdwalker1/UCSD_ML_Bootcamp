@@ -53,6 +53,7 @@ amber
 amble
 amiss
 ample
+amuse
 angel
 anger
 angle
