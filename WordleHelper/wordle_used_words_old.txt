@@ -60,6 +60,7 @@ angle
 angry
 angst
 annex
+annoy
 anode
 antic
 anvil
