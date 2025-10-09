@@ -646,6 +646,7 @@ hairy
 halve
 handy
 happy
+hardy
 harsh
 hatch
 hater
