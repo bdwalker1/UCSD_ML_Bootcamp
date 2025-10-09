@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1573,10-09-2025,hardy
 1572,10-08-2025,annoy
 1571,10-07-2025,nylon
 1570,10-06-2025,amuse
