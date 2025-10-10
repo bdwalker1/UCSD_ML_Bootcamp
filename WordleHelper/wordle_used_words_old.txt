@@ -780,6 +780,7 @@ leggy
 lemon
 lemur
 level
+lever
 libel
 light
 lilac
