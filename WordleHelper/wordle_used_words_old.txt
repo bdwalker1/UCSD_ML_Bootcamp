@@ -540,6 +540,7 @@ forte
 forgo
 forth
 forty
+forum
 found
 foyer
 frame
