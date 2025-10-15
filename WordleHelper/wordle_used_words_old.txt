@@ -1273,6 +1273,7 @@ splat
 split
 spoil
 spoke
+spoof
 spoon
 spore
 sport
