@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1580,10-16-2025,catty
 1579,10-15-2025,spoof
 1578,10-14-2025,forum
 1577,10-13-2025,beard
