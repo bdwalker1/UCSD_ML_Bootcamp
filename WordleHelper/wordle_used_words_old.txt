@@ -628,6 +628,7 @@ gripe
 groan
 groin
 groom
+gross
 group
 grout
 grove
