@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1583,10-19-2025,ideal
 1582,10-18-2025,haven
 1581,10-17-2025,gross
 1580,10-16-2025,catty
