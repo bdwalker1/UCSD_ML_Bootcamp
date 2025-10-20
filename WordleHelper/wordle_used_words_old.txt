@@ -790,6 +790,7 @@ lever
 libel
 light
 lilac
+limbo
 limit
 linen
 liner
