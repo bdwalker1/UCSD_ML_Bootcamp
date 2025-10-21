@@ -377,6 +377,7 @@ denim
 depot
 depth
 deter
+detox
 devil
 diary
 dicey
