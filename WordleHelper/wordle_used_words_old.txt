@@ -1340,6 +1340,7 @@ stray
 study
 stump
 stung
+stunt
 style
 suave
 suede
