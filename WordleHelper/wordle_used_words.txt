@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1589,10-25-2025,gauge
 1588,10-24-2025,tuber
 1587,10-23-2025,drill
 1586,10-22-2025,stunt
