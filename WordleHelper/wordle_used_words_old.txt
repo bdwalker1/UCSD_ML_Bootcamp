@@ -1012,6 +1012,7 @@ plaza
 pleat
 pluck
 plumb
+plump
 plunk
 point
 poise
