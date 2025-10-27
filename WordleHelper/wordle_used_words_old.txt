@@ -487,6 +487,7 @@ feign
 feral
 ferry
 fetch
+fetid
 fever
 fewer
 fiber
