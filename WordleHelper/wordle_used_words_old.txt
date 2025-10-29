@@ -586,6 +586,7 @@ girth
 given
 glade
 gland
+glare
 glass
 glaze
 gleam
