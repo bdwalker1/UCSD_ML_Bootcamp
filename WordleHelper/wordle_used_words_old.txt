@@ -773,6 +773,7 @@ larva
 laser
 lasso
 later
+lathe
 latte
 laugh
 layer
