@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1596,11-01-2025,motel
 1595,10-31-2025,abhor
 1594,10-30-2025,lathe
 1593,10-29-2025,glare
