@@ -891,6 +891,7 @@ month
 moose
 moral
 mossy
+motel
 motor
 motto
 moult
