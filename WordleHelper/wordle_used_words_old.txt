@@ -648,6 +648,7 @@ guest
 guide
 guild
 guile
+guise
 gully
 gummy
 guppy
