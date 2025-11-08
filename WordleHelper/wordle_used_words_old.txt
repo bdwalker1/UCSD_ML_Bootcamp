@@ -75,6 +75,7 @@ aptly
 arbor
 ardor
 argue
+arise
 aroma
 arrow
 artsy
