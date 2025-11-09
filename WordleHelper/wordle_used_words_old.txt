@@ -564,6 +564,7 @@ frost
 froth
 frown
 froze
+fugue
 fully
 fungi
 funky
