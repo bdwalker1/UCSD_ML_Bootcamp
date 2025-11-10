@@ -1381,6 +1381,7 @@ swoon
 sword
 swung
 syrup
+tabby
 table
 taboo
 tacit
