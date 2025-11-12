@@ -381,6 +381,7 @@ depot
 depth
 deter
 detox
+deuce
 devil
 diary
 dicey
