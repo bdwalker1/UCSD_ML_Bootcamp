@@ -1436,6 +1436,7 @@ tidal
 tiger
 tilde
 timer
+tinge
 tipsy
 titan
 tithe
