@@ -1580,6 +1580,7 @@ whoop
 whose
 widen
 width
+wield
 wince
 windy
 witch
