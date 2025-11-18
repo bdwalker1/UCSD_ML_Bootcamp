@@ -959,6 +959,7 @@ omega
 onion
 onset
 opera
+opine
 order
 organ
 other
